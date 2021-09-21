@@ -12,5 +12,7 @@ Another paper by Google shows that there is indeed a regime where the topology o
 References:
 
 [1] Mari, Andrea, et al. "Transfer learning in hybrid classical-quantum neural networks." Quantum 4 (2020): 340.
+
 [2] Schuld, Maria, and Francesco Petruccione. Supervised learning with quantum computers. Vol. 17. Berlin: Springer, 2018.
+
 [3] Huang, Hsin-Yuan, et al. "Power of data in quantum machine learning." Nature communications 12.1 (2021): 1-9.
