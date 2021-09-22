@@ -1,8 +1,6 @@
 # QuantumSentenceTransformer
 Quantum-Enhanced Transfer Learning for Natural Language Processing
 
-![image](https://user-images.githubusercontent.com/22627105/134391397-d665830c-a0eb-41d8-913c-0031047200b5.png)
-
 This is based on the paper [1] https://arxiv.org/abs/1912.08278
 
 The idea adopted here is to have a classical pre-trained model for capturing the Semantics of a text, freezing its initial layers and stacking at the end of the net a chosen number of Quantum Variational Circuits (QVC) that can be trained using PennyLane's interface. It can be shown from the universality of Fourier series that Quantum Neural Nets (given sufficiently wide and deep circuits) are universal function approximators! More on this can be found in [2].
